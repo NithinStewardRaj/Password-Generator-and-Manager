@@ -1,4 +1,4 @@
-# Password-Manager-1.1
+# Password-Generator & manager
 
 This is an bash script which creates an password using openssl in 32bit
 and copies that generted password to your clipboard using xclip
